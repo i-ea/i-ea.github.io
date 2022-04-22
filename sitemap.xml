@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://i-ea.github.io/posts/photos-panel/</loc>
+    <lastmod>2022-04-10T11:11:10+01:00</lastmod>
+  </url><url>
     <loc>https://i-ea.github.io/posts/words-panel/</loc>
     <lastmod>2022-04-09T11:11:10+01:00</lastmod>
   </url><url>
@@ -22,6 +25,12 @@
   </url><url>
     <loc>https://i-ea.github.io/posts/prologue-3/</loc>
     <lastmod>2021-07-01T11:11:13+01:00</lastmod>
+  </url><url>
+    <loc>https://i-ea.github.io/panels/Fumiaki-Sano/</loc>
+    <lastmod>2021-07-01T11:11:11+01:00</lastmod>
+  </url><url>
+    <loc>https://i-ea.github.io/panels/</loc>
+    <lastmod>2021-07-01T11:11:11+01:00</lastmod>
   </url><url>
     <loc>https://i-ea.github.io/posts/prologue-2/</loc>
     <lastmod>2021-07-01T11:11:11+01:00</lastmod>
